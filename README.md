@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Yehan Banura Kapurubandara
+- 👀 I’m interested in Coding and creating new Softwares
+- 🌱 I’m currently learning Software Engineering at University of Central Lancashire
